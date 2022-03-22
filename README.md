@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @littyrajan
 - 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me www.linkedin.com/in/litty-rajan-bl22 
 
